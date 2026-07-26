@@ -35,8 +35,8 @@ Entrepreneur with 3 years of hands-on experience building startups, gaining skil
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
     </tr>
     <tr>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Airlangga Young Entrepreneur Awardee</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Awardee of Early-Stage Venture Grant</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Airlangga Young Entrepreneur</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Arlangga Young Entrepreneur Awardee; Member of the Team Awarded an Early-Stage Business Grant</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">University</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
     </tr>
