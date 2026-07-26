@@ -18,39 +18,81 @@
 ## 👤 Who I Am
 I enjoy turning ideas into products, marketing strategies, and business solutions that create meaningful value for businesses and the people they serve.
 
-## 🏆 Award and Grant
+## 🏆 Award## 🏆 Award and Grant
 <style>
-table {
+.reward-table {
   border-collapse: collapse;
   width: 100%;
   background: #f6f8fa;
   border-radius: 8px;
   overflow: hidden;
 }
-th, td {
+.reward-table th, 
+.reward-table td {
   padding: 12px 16px;
   text-align: left;
   border-bottom: 1px solid #e5e7eb;
 }
-th {
-  background: #f1f5f9;
+.reward-table th {
+  background: #1f5f9; /* Warna header biru */
+  color: white;
   font-weight: 600;
 }
-tr:last-child td {
+.reward-table tr:last-child td {
   border-bottom: none;
 }
 </style>
 
-| Competition | Result | Scale | Year |
-|---|---|---|---|
-| 1st Place, International Essay Competition in Accounting Fair (ACF) VII 2024 | 1st Place | 2024 |
-| 1st Place, Poster Competition in Southeast Asia Regional Poster & Essay Competition 2023 | 1st Place | 2023 |
-| Airlangga Young Entrepreneur Awardee | 2023 |
-| 1st Place, UI/UX Design Competition at HARTIK X | 1st Place | 50+ teams | 2024 |
-| 2nd Place, Poster Design Competition in Mulawarman Informatics Tech Week | 2nd Place | 50+ participants | 2024 |
-| 1st Place, Poster Design Competition in UPB FAST | 2022 |
-| Favorite Award, Creative Illustration Competition, CLAPROYEX #6 |2022
-
+<table class="reward-table">
+  <tr>
+    <th>Competition</th>
+    <th>Result</th>
+    <th>Scale</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>1st Place, International Essay Competition in Accounting Fair (ACF) VII 2024</td>
+    <td>1st Place</td>
+    <td></td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>1st Place, Poster Competition in Southeast Asia Regional Poster & Essay Competition</td>
+    <td>1st Place</td>
+    <td></td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>Airlangga Young Entrepreneur Awardee</td>
+    <td></td>
+    <td></td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>1st Place, UI/UX Design Competition at HARTIK X</td>
+    <td>1st Place</td>
+    <td>50+ teams</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>2nd Place, Poster Design Competition in Mulawarman Informatics Tech Week</td>
+    <td>2nd Place</td>
+    <td>50+ participants</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>1st Place, Poster Design Competition in UPB FAST</td>
+    <td>1st Place</td>
+    <td></td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>Favorite Award, Creative Illustration Competition, CLAPROYEX #6</td>
+    <td>Favorite Award</td>
+    <td></td>
+    <td>2022</td>
+  </tr>
+</table>
 <!-- 🏷️ Sertifikat & Kursus -->
 <details>
   <summary style="cursor: pointer; font-weight: 600; color: #24292f;">▼ CLICK ME TO EXPAND</summary>
