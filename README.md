@@ -19,83 +19,60 @@
 I enjoy turning ideas into products, marketing strategies, and business solutions that create meaningful value for businesses and the people they serve.
 
 ## 🏆 Award## 🏆 
-## 🏆 Award and Grant
-
-<style>
-.award-table {
-  border-collapse: collapse;
-  width: 100%;
-  background: #f6f8fa;
-  border-radius: 8px;
-  overflow: hidden;
-}
-.award-table th,
-.award-table td {
-  padding: 12px 16px;
-  text-align: left;
-  border-bottom: 1px solid #e5e7eb;
-}
-.award-table th {
-  background: #1f5f9f;
-  color: #ffffff;
-  font-weight: 600;
-}
-.award-table tr:last-child td {
-  border-bottom: none;
-}
-</style>
-
-<table class="award-table">
-  <tr>
-    <th>Competition</th>
-    <th>Result</th>
-    <th>Scale</th>
-    <th>Year</th>
-  </tr>
-  <tr>
-    <td>1st Place, International Essay Competition in Accounting Fair (ACF) VII 2024</td>
-    <td>1st Place</td>
-    <td>–</td>
-    <td>2024</td>
-  </tr>
-  <tr>
-    <td>1st Place, Poster Competition in Southeast Asia Regional Poster & Essay Competition</td>
-    <td>1st Place</td>
-    <td>–</td>
-    <td>2023</td>
-  </tr>
-  <tr>
-    <td>Airlangga Young Entrepreneur Awardee</td>
-    <td>–</td>
-    <td>–</td>
-    <td>2023</td>
-  </tr>
-  <tr>
-    <td>1st Place, UI/UX Design Competition at HARTIK X</td>
-    <td>1st Place</td>
-    <td>50+ teams</td>
-    <td>2024</td>
-  </tr>
-  <tr>
-    <td>2nd Place, Poster Design Competition in Mulawarman Informatics Tech Week</td>
-    <td>2nd Place</td>
-    <td>50+ participants</td>
-    <td>2024</td>
-  </tr>
-  <tr>
-    <td>1st Place, Poster Design Competition in UPB FAST</td>
-    <td>1st Place</td>
-    <td>–</td>
-    <td>2022</td>
-  </tr>
-  <tr>
-    <td>Favorite Award, Creative Illustration Competition, CLAPROYEX #6</td>
-    <td>Favorite Award</td>
-    <td>–</td>
-    <td>2022</td>
-  </tr>
+<table style="border-collapse: collapse; width: 100%; background: #f6f8fa; border-radius: 8px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th style="background: #1f5f9f; color: white; padding: 12px 16px; text-align: left; font-weight: 600;">Competition</th>
+      <th style="background: #1f5f9f; color: white; padding: 12px 16px; text-align: left; font-weight: 600;">Result</th>
+      <th style="background: #1f5f9f; color: white; padding: 12px 16px; text-align: left; font-weight: 600;">Scale</th>
+      <th style="background: #1f5f9f; color: white; padding: 12px 16px; text-align: left; font-weight: 600;">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, International Essay Competition in Accounting Fair (ACF) VII 2024</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2024</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, Poster Competition in Southeast Asia Regional Poster & Essay Competition</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Airlangga Young Entrepreneur Awardee</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, UI/UX Design Competition at HARTIK X</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">50+ teams</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2024</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2nd Place, Poster Design Competition in Mulawarman Informatics Tech Week</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2nd Place</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">50+ participants</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2024</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, Poster Design Competition in UPB FAST</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2022</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Favorite Award, Creative Illustration Competition, CLAPROYEX #6</td>
+      <td style="padding: 12px 16px;">Favorite Award</td>
+      <td style="padding: 12px 16px;">—</td>
+      <td style="padding: 12px 16px;">2022</td>
+    </tr>
+  </tbody>
 </table>
-
 <!-- 🏷️ Sertifikat & Kursus -->
 <details>
   <summary style="cursor: pointer; font-weight: 600; color: #24292f;">▼ CLICK ME TO EXPAND</summary>
