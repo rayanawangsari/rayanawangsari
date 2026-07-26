@@ -18,7 +18,7 @@
 ## 👤 Who I Am
 I enjoy turning ideas into products, marketing strategies, and business solutions that create meaningful value for businesses and the people they serve.
 
-## 🏆 Award## 🏆 
+## 🏆 Award🏆 ##  
 <table style="border-collapse: collapse; width: 100%; background: #f6f8fa; border-radius: 8px; overflow: hidden;">
   <thead>
     <tr>
@@ -30,45 +30,45 @@ I enjoy turning ideas into products, marketing strategies, and business solution
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, International Essay Competition in Accounting Fair (ACF) VII 2024</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">International Essay Competition in Accounting Fair (ACF) VII 2024</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">International</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2024</td>
     </tr>
     <tr>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, Poster Competition in Southeast Asia Regional Poster & Essay Competition</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Poster Competition in Southeast Asia Regional Poster & Essay Competition</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Southeast Asia</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
     </tr>
     <tr>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Airlangga Young Entrepreneur Awardee</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Awardee of Early-Stage Venture Grant</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">University</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
     </tr>
     <tr>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, UI/UX Design Competition at HARTIK X</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">UI/UX Design Competition at HARTIK X</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">50+ teams</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2024</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">National</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
     </tr>
     <tr>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2nd Place, Poster Design Competition in Mulawarman Informatics Tech Week</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Poster Design Competition in Mulawarman Informatics Tech Week</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2nd Place</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">50+ participants</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">National</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2024</td>
     </tr>
     <tr>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place, Poster Design Competition in UPB FAST</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">oster Design Competition in UPB FAST</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">1st Place</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">—</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">National</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2022</td>
     </tr>
     <tr>
-      <td style="padding: 12px 16px;">Favorite Award, Creative Illustration Competition, CLAPROYEX #6</td>
+      <td style="padding: 12px 16px;">Creative Illustration Competition, CLAPROYEX #6</td>
       <td style="padding: 12px 16px;">Favorite Award</td>
-      <td style="padding: 12px 16px;">—</td>
+      <td style="padding: 12px 16px;">National</td>
       <td style="padding: 12px 16px;">2022</td>
     </tr>
   </tbody>
