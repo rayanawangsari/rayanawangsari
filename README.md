@@ -8,12 +8,10 @@
 </pre>
 
 <h3 align="center">Competition-driven | Creative at core | Building Brands & Businesses </h3>
----
 <p align="center">
   <a href="https://www.linkedin.com/rahayunaw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:srahayunawangsari"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 </p>
----
 
 ## 👤 Who I Am
 I enjoy turning ideas into products, marketing strategies, and business solutions that create meaningful value for businesses and the people they serve.
