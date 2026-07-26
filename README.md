@@ -8,15 +8,10 @@
 </pre>
 
 <h3 align="center">Competition-driven | Creative at core | Building Brands & Businesses </h3>
-
+---
 <p align="center">
-  <a href="https://www.linkedin.com/rahayunaw" style="display: inline-block; background-color: #0A66C2; color: #ffffff; padding: 5px 14px; border-radius: 2px; text-decoration: none; font-size: 14px; font-weight: 500; margin: 0 3px;">LinkedIn</a>
-  <a href="mailto:srahayunawangsariU" style="display: inline-block; background-color: #EA4335; color: #ffffff; padding: 5px 14px; border-radius: 2px; text-decoration: none; font-size: 14px; font-weight: 500; margin: 0 3px;">✉ Email</a>
-</p>
-
-<p align="center">
-  <span style="background:#0a66c2; color:white; padding:4px 10px;">LinkedIn</span>
-  <span style="background:#d93025; color:white; padding:4px 10px;">Email</span>
+  <a href="https://www.linkedin.com/rahayunaw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:srahayunawangsari"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 ---
 
