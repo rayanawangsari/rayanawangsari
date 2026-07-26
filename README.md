@@ -8,8 +8,9 @@
 </pre>
 
 <h3 align="center">Competition-driven | Creative at core | Building Brands & Businesses </h3>
+
 <p align="center">
-  <a href="[TAUTAN_LINKEDIN_KAMU](https://www.linkedin.com/rahayunaw)" style="display: inline-block; background-color: #0A66C2; color: #ffffff; padding: 5px 14px; border-radius: 2px; text-decoration: none; font-size: 14px; font-weight: 500; margin: 0 3px;">LinkedIn</a>
+  <a href="https://www.linkedin.com/rahayunaw" style="display: inline-block; background-color: #0A66C2; color: #ffffff; padding: 5px 14px; border-radius: 2px; text-decoration: none; font-size: 14px; font-weight: 500; margin: 0 3px;">LinkedIn</a>
   <a href="mailto:srahayunawangsariU" style="display: inline-block; background-color: #EA4335; color: #ffffff; padding: 5px 14px; border-radius: 2px; text-decoration: none; font-size: 14px; font-weight: 500; margin: 0 3px;">✉ Email</a>
 </p>
 ---
