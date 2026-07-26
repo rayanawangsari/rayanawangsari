@@ -82,7 +82,7 @@ Entrepreneur with 3 years of hands-on experience building startups, gaining skil
   <tr>
     <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Rakamin Academy</td>
     <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Digital Marketing (Paid Ads)</td>
-    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2025</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2022</td>
   </tr>
   <tr>
     <td style="padding: 12px 16px;">Jobhun Academy</td>
