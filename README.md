@@ -67,50 +67,27 @@ Entrepreneur with 3 years of hands-on experience building startups, gaining skil
   </tbody>
 </table>
 
-<style>
-.cert-table {
-  border-collapse: collapse;
-  width: 100%;
-  background: #f6f8fa;
-  border-radius: 8px;
-  overflow: hidden;
-  margin-top: 8px;
-}
-.cert-table th,
-.cert-table td {
-  padding: 12px 16px;
-  text-align: left;
-  border-bottom: 1px solid #e5e7eb;
-}
-.cert-table th {
-  background: #f1f5f9;
-  font-weight: 600;
-}
-.cert-table tr:last-child td {
-  border-bottom: none;
-}
-</style>
-
-<table class="cert-table">
-  <tr>
-    <th>Issuer</th>
-    <th>Certificate</th>
-    <th>Year</th>
+## 📜 Certifications
+<table style="border-collapse: collapse; width: 100%; background: #f6f8fa; border-radius: 8px;">
+  <tr style="background: #f1f5f9;">
+    <th style="padding: 12px 16px; text-align: left; border-bottom: 1px solid #e5e7eb;">Issuer</th>
+    <th style="padding: 12px 16px; text-align: left; border-bottom: 1px solid #e5e7eb;">Certificate</th>
+    <th style="padding: 12px 16px; text-align: left; border-bottom: 1px solid #e5e7eb;">Year</th>
   </tr>
   <tr>
-    <td>Binar Academy</td>
-    <td>UI/UX Research and Design</td>
-    <td>2023</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Binar Academy</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">UI/UX Research and Design</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
   </tr>
   <tr>
-    <td>Rakamin Academy</td>
-    <td>Digital Marketing (Paid Ads)</td>
-    <td>2025</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Rakamin Academy</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Digital Marketing (Paid Ads)</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2025</td>
   </tr>
   <tr>
-    <td>Jobhun Academy</td>
-    <td>Digital Marketing</td>
-    <td>2022</td>
+    <td style="padding: 12px 16px;">Jobhun Academy</td>
+    <td style="padding: 12px 16px;">Digital Marketing</td>
+    <td style="padding: 12px 16px;">2022</td>
   </tr>
 </table>
 </p>
