@@ -75,6 +75,11 @@ Entrepreneur with 3 years of hands-on experience building startups, gaining skil
     <th style="padding: 12px 16px; text-align: left; border-bottom: 1px solid #e5e7eb;">Year</th>
   </tr>
   <tr>
+  <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">DPKKA Universitas Airlangga</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Airlangga Young Entreprenur Awardee</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
+  </tr>
+  <tr>
     <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Binar Academy</td>
     <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">UI/UX Research and Design</td>
     <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2023</td>
