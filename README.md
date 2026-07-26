@@ -50,7 +50,7 @@ Entrepreneur with 3 years of hands-on experience building startups, gaining skil
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">Poster Design Competition in Mulawarman Informatics Tech Week</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2nd Place</td>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">National</td>
-      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2024</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">2022</td>
     </tr>
     <tr>
       <td style="padding: 12px 16px; border-bottom: 1px solid #e5e7eb;">oster Design Competition in UPB FAST</td>
