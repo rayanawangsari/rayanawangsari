@@ -1,16 +1,127 @@
-## Hi there 👋
+<pre align="center">
+██████╗  █████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗   ██╗    ███╗   ██╗ █████╗ ██╗    ██╗ █████╗ ███╗   ██╗ ██████╗ ███████╗ █████╗ ██████╗ ██╗
+██╔══██╗██╔══██╗██║  ██║██╔══██╗╚██╗ ██╔╝██║   ██║    ████╗  ██║██╔══██╗██║    ██║██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗██╔══██╗██║
+██████╔╝███████║███████║███████║ ╚████╔╝ ██║   ██║    ██╔██╗ ██║███████║██║ █╗ ██║███████║██╔██╗ ██║██║  ███╗███████╗███████║██████╔╝██║
+██╔══██╗██╔══██║██╔══██║██╔══██║  ╚██╔╝  ██║   ██║    ██║╚██╗██║██╔══██║██║███╗██║██╔══██║██║╚██╗██║██║   ██║╚════██║██╔══██║██╔══██╗██║
+██║  ██║██║  ██║██║  ██║██║  ██║   ██║   ╚██████╔╝    ██║ ╚████║██║  ██║╚███╔███╔╝██║  ██║██║ ╚████║╚██████╔╝███████║██║  ██║██║  ██║██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝     ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+</pre>
 
-<!--
-**rayanawangsari/rayanawangsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Competition-driven | Creative at core | Building Brands & Businesses </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="mailto:srahayunawangsari@email.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 Who I Am
+I enjoy turning ideas into products, marketing strategies, and business solutions that create meaningful value for businesses and the people they serve.
+
+## 🏆 Award and Grant
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background: #f6f8fa;
+  border-radius: 8px;
+  overflow: hidden;
+}
+th, td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+th {
+  background: #f1f5f9;
+  font-weight: 600;
+}
+tr:last-child td {
+  border-bottom: none;
+}
+</style>
+
+| Competition | Result | Scale | Year |
+|---|---|---|---|
+| 1st Place, International Essay Competition in Accounting Fair (ACF) VII 2024 | 1st Place | 2024 |
+| 1st Place, Poster Competition in Southeast Asia Regional Poster & Essay Competition 2023 | 1st Place | 2023 |
+| Airlangga Young Entrepreneur Awardee | 2023 |
+| 1st Place, UI/UX Design Competition at HARTIK X | 1st Place | 50+ teams | 2024 |
+| 2nd Place, Poster Design Competition in Mulawarman Informatics Tech Week | 2nd Place | 50+ participants | 2024 |
+| 1st Place, Poster Design Competition in UPB FAST | 2022 |
+| Favorite Award, Creative Illustration Competition, CLAPROYEX #6 |2022
+
+<!-- 🏷️ Sertifikat & Kursus -->
+<details>
+  <summary style="cursor: pointer; font-weight: 600; color: #24292f;">▼ CLICK ME TO EXPAND</summary>
+  <br>
+  
+  <style>
+  .cert-table {
+    border-collapse: collapse;
+    width: 100%;
+    background: #f6f8fa;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 8px;
+  }
+  .cert-table th, .cert-table td {
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .cert-table th {
+    background: #f1f5f9;
+  }
+  .cert-table tr:last-child td {
+    border-bottom: none;
+  }
+  </style>
+
+  <table class="cert-table">
+    <tr>
+      <th>Issuer</th>
+      <th>Certificate</th>
+      <th>Year</th>
+    </tr>
+    <tr>
+      <td>Binar Academy</td>
+      <td>UI/UX Research and Design</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Rakamin Academy</td>
+      <td>Digital Marketing (Paid Ads)</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Digital Marketing</td>
+      <td>Jobhun Academy</td>
+      <td>2022</td>
+    </tr>
+  </table>
+</details>
+
+<!-- ✍️ Penutup & Kontak -->
+<p style="text-align: center; font-style: italic; color: #4a5568; margin: 10px 0;">
+Build. Innovate. Grow
+</p>
+
+<p style="text-align: center; margin: 15px 0;">
+Open to research collaborations, competitions, and professional opportunities.
+</p>
+
+<p style="text-align: center;">
+  <a href="#" style="
+    background: #373e47;
+    color: white;
+    padding: 7px 18px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0 5px;
+  ">LET'S CONNECT</a>
+</p>
+
+---
