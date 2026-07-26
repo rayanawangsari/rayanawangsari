@@ -14,9 +14,9 @@
 </p>
 
 ## 👤 Who I Am
-I enjoy turning ideas into products, marketing strategies, and business solutions that create meaningful value for businesses and the people they serve.
+Entrepreneur with 3 years of hands-on experience building startups, gaining skill in data-driven marketing and product innovation. Seeks to develop strategic management capabilities to address business challenges and adapt to dynamic market changes. Recognized through multiple national and international awards.
 
-## 🏆 Award🏆 ##  
+## 🏆 Award🏆 
 <table style="border-collapse: collapse; width: 100%; background: #f6f8fa; border-radius: 8px; overflow: hidden;">
   <thead>
     <tr>
