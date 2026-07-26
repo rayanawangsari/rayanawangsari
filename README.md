@@ -66,77 +66,53 @@ Entrepreneur with 3 years of hands-on experience building startups, gaining skil
     </tr>
   </tbody>
 </table>
-<!-- 🏷️ Sertifikat & Kursus -->
-<details>
-  <summary style="cursor: pointer; font-weight: 600; color: #24292f;">▼ CLICK ME TO EXPAND</summary>
-  <br>
-  
-  <style>
-  .cert-table {
-    border-collapse: collapse;
-    width: 100%;
-    background: #f6f8fa;
-    border-radius: 8px;
-    overflow: hidden;
-    margin-top: 8px;
-  }
-  .cert-table th, .cert-table td {
-    padding: 12px 16px;
-    text-align: left;
-    border-bottom: 1px solid #e5e7eb;
-  }
-  .cert-table th {
-    background: #f1f5f9;
-  }
-  .cert-table tr:last-child td {
-    border-bottom: none;
-  }
-  </style>
 
-  <table class="cert-table">
-    <tr>
-      <th>Issuer</th>
-      <th>Certificate</th>
-      <th>Year</th>
-    </tr>
-    <tr>
-      <td>Binar Academy</td>
-      <td>UI/UX Research and Design</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>Rakamin Academy</td>
-      <td>Digital Marketing (Paid Ads)</td>
-      <td>2025</td>
-    </tr>
-    <tr>
-      <td>Digital Marketing</td>
-      <td>Jobhun Academy</td>
-      <td>2022</td>
-    </tr>
-  </table>
-</details>
+<style>
+.cert-table {
+  border-collapse: collapse;
+  width: 100%;
+  background: #f6f8fa;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 8px;
+}
+.cert-table th,
+.cert-table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+.cert-table th {
+  background: #f1f5f9;
+  font-weight: 600;
+}
+.cert-table tr:last-child td {
+  border-bottom: none;
+}
+</style>
 
-<!-- ✍️ Penutup & Kontak -->
-<p style="text-align: center; font-style: italic; color: #4a5568; margin: 10px 0;">
-Build. Innovate. Grow
-</p>
-
-<p style="text-align: center; margin: 15px 0;">
-Open to research collaborations, competitions, and professional opportunities.
-</p>
-
-<p style="text-align: center;">
-  <a href="#" style="
-    background: #373e47;
-    color: white;
-    padding: 7px 18px;
-    border-radius: 4px;
-    text-decoration: none;
-    font-size: 14px;
-    font-weight: 500;
-    margin: 0 5px;
-  ">LET'S CONNECT</a>
+<table class="cert-table">
+  <tr>
+    <th>Issuer</th>
+    <th>Certificate</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>Binar Academy</td>
+    <td>UI/UX Research and Design</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>Rakamin Academy</td>
+    <td>Digital Marketing (Paid Ads)</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>Jobhun Academy</td>
+    <td>Digital Marketing</td>
+    <td>2022</td>
+  </tr>
+</table>
 </p>
 
 ---
